@@ -163,11 +163,12 @@ MQTT telemetry is published as JSON every 5 seconds to `<topic-prefix>/telemetry
 
 ## 📹 Demo Video
 
-*(Drag and drop your 1–2 minute demo video here, or link your YouTube video below)*
 
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
 
-> Replace `YOUR_VIDEO_ID` with the actual YouTube video ID.
+Uploading 20260811 212712.mp4…
+
+
+
 
 ---
 
@@ -177,9 +178,19 @@ MQTT telemetry is published as JSON every 5 seconds to `<topic-prefix>/telemetry
 
 | Screenshot | Description |
 |---|---|
+<img width="453" height="580" alt="Screenshot 2026-08-11 211538" src="https://github.com/user-attachments/assets/b15240b8-4bbc-4f49-b0b4-da60705ac277" />
+
 | `screenshots/task_list.png` | FirmGen generated task plan |
+<img width="380" height="637" alt="Screenshot 2026-08-11 213050" src="https://github.com/user-attachments/assets/a8627f2c-b98f-45c3-9e0c-7d9708e21cb6" />
+
 | `screenshots/topology.png` | Firmware topology / module graph |
+<img width="571" height="714" alt="Screenshot 2026-08-11 213124" src="https://github.com/user-attachments/assets/d565170d-c6d6-4fbc-b141-8c4c895a9923" />
+
 | `screenshots/deploy_log.png` | Successful deploy + flash output |
+
+
+<img width="980" height="303" alt="Screenshot 2026-08-11 213148" src="https://github.com/user-attachments/assets/895a5345-f884-4a37-af5e-8f43516d512d" />
+
 | `screenshots/serial_monitor.png` | Runtime serial monitor output |
 
 ---
